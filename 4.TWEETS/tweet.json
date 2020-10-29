@@ -1,0 +1,14 @@
+{
+	"Tweets" : [
+		{"Stream":false, "texto":"Buen martes chavos"},
+		{"Stream":true, "texto":"Vamos a seguirle con el marvel's Avengers =)"},
+		{"Stream":false, "texto":"Cualquier parecido con la realidad es pura coincidencia"},
+		{"Stream":true, "texto":"Vamos a darle al Among Us con los compas"},
+		{"Stream":false, "texto":"Vamos a seguirle al Crash Bandicoot 4 asi es"},
+		{"Stream":true, "texto":"Vamos a reaccionar al Playstation 5 Showcase"},
+		{"Stream":false, "texto":"Ya pronto se van a armar los Unboxing retro"},
+		{"Stream":true, "texto":"Vamos a darle a Alan Wake para matar un juego mas =)"},
+		{"Stream":false, "texto":"Les dejo la foto de un Fedelobito emperrado"},
+		{"Stream":true, "texto":"Seguimos dandole al Crash 4"}	
+	]
+}
